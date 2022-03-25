@@ -1,0 +1,47 @@
+[
+	{
+		"_id": "60a779f63d9c8c45607cff80",
+		"customername": "abir",
+		"address": "kolkata",
+		"policynumber": "1419Q1675",
+		"premium": "1000",
+		"emailid": "abiir@aol.com",
+		"lob": "Workers Comp"
+	},
+	{
+		"_id": "60a77a113d9c8c45607cff81",
+		"customername": "Dhiraj Kumar",
+		"address": "jharkhand",
+		"policynumber": "9568Y1759",
+		"premium": "1258",
+		"emailid": "dhiraj@gmail.com",
+		"lob": "StandAlone Global"
+	},
+	{
+		"_id": "60a77a8b3d9c8c45607cff82",
+		"customername": "Samuel Dickson",
+		"address": "11th main road wilson tower germany",
+		"policynumber": "1419Q1674",
+		"premium": "4319",
+		"emailid": "SamDick@aol.com",
+		"lob": "Package Policy"
+	},
+	{
+		"_id": "60a77b483d9c8c45607cff83",
+		"customername": "shanawer ansari",
+		"address": "#401 vasant vihar apartments 5th cross road",
+		"policynumber": "1963V3931",
+		"premium": 6898,
+		"emailid": "shanawer1761@gmail.com",
+		"lob": "Property"
+	},
+	{
+		"_id": "60ab606dd073562124335746",
+		"customername": "Abir Indra",
+		"address": "100 main street kolkata ",
+		"policynumber": "4701O9236",
+		"premium": 6669,
+		"emailid": "abirindra@mail.com",
+		"lob": "Property"
+	}
+]
